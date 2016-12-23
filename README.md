@@ -16,7 +16,7 @@ Place |Team or User | Score | Summary of Model
 --- | --- | --- | --- | --- | ---
 1 | LilianaMedina | 0.8901 | I averaged the predictions of a random forest and a gradient boosted model.
 2 | qwang | 0.8931 | My approach was focused almost strictly on feature engineering. I used scikit-learn’s implementation of random forests in Python.
-3 | singhs | 0.9113 | I built four models for each target (random forest, extra random trees, gradient boosting machine, l2 logistic regression) and blended the predictions from these models to get my final submission.
+3 | furiouseskimo | 0.9113 | I built four models for each target (random forest, extra random trees, gradient boosting machine, l2 logistic regression) and blended the predictions from these models to get my final submission.
 
 
 #### Winner's Interview: ["Announcing the Results of our Keeping It Fresh Competition"](http://blog.drivendata.org/2015/11/06/keeping-it-fresh-results/)
