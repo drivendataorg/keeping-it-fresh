@@ -1,4 +1,4 @@
-[<img src='https://drivendata.s3.amazonaws.com/images/drivendata.png'>](https://www.drivendata.org/)
+[<img src='https://community.drivendata.org/uploads/default/optimized/1X/e055d38472b1ae95f54110375180ceb4449c026b_1_690x111.png'>](https://www.drivendata.org/)
 <br><br>
 
 ![Banner Image](https://s3.amazonaws.com/drivendata/comp_images/tileimage.jpg)
@@ -20,3 +20,5 @@ Place |Team or User | Score | Summary of Model
 
 
 #### Winner's Interview: ["Announcing the Results of our Keeping It Fresh Competition"](http://blog.drivendata.org/2015/11/06/keeping-it-fresh-results/)
+
+#### Benchmark Blog Post: ["From raw Yelp reviews to a model of hygiene violations (in 3 easy steps)"](http://blog.drivendata.org/2015/05/07/keeping-it-fresh-benchmark/)
