@@ -1,4 +1,4 @@
-[<img src='https://community.drivendata.org/uploads/default/optimized/1X/e055d38472b1ae95f54110375180ceb4449c026b_1_690x111.png'>](https://www.drivendata.org/)
+[<img src='https://s3.amazonaws.com/drivendata-public-assets/logo-white-blue.png' style="max-width:85%;>](https://www.drivendata.org/)
 <br><br>
 
 ![Banner Image](https://s3.amazonaws.com/drivendata/comp_images/tileimage.jpg)
@@ -15,7 +15,7 @@ This repository contains code volunteered from leading competitors in the [Keepi
 ## Winning Submissions
 
 Place |Team or User | Score | Summary of Model
---- | --- | --- | --- 
+--- | --- | --- | ---
 1 | LilianaMedina | 0.8901 | I averaged the predictions of a random forest and a gradient boosted model.
 2 | qwang | 0.8931 | My approach was focused almost strictly on feature engineering. I used scikit-learn’s implementation of random forests in Python.
 3 | furiouseskimo | 0.9113 | I built four models for each target (random forest, extra random trees, gradient boosting machine, l2 logistic regression) and blended the predictions from these models to get my final submission.
